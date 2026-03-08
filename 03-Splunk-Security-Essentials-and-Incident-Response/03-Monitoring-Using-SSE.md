@@ -1,5 +1,4 @@
 # Monitoring Data using Splunk Security Essentials (SSE)
-### Top-1% Learner Notes — SOC Thinking + Practical Understanding
 
 ---
 
